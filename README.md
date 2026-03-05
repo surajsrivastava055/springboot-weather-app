@@ -11,7 +11,7 @@
 </or>
 </b><br>
  <h2> Tech Stack </h2>
-<b>Java | Spring Boot | REST API |Maven | External Weather API </b></br>
+<b>Java | Spring Boot | REST API | Maven | External Weather API </b></br>
 
 # That's all 🎊🎉 </br>
 
