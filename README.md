@@ -12,7 +12,9 @@
 </b><br>
  <h2> Tech Stack </h2>
 <b>Java | Spring Boot | REST API |Maven | External Weather API </b></br>
+
 # That's all 🎊🎉 </br>
+
 ## ScreenShots
 <img src="ScreenShot/weather1.jpeg" width="100%" /><br /> <br />
 <img src="ScreenShot/weather2.jpeg" width="100%" /><br /> <br />
